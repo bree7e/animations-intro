@@ -1,6 +1,3 @@
-@import 'https://unpkg.com/@angular/material/prebuilt-themes/indigo-pink.css';
-@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
-
 body { 
   font-family: Roboto, Arial, sans-serif; 
   background: #fbc032;
